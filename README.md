@@ -8,7 +8,7 @@ I'm a 3rd year Computer Science student at Wilfrid Laurier University
 - 👨‍💻 I am an aspiring developer
 
 ## Contact Me
-@jonaheagleson@gmail.com
+jonaheagleson@gmail.com
 
 ## Check out my LinkedIn
 www.linkedin.com/in/jonah-eagleson
