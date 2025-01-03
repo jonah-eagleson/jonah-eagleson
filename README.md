@@ -1,4 +1,4 @@
-## Hi there, I'm Jonah Eagleson 👋
+## Hi there, I'm Jonah! 👋
 
 I'm a 3rd year Computer Science student at Wilfrid Laurier University
 
