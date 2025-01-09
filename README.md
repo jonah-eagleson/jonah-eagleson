@@ -7,8 +7,9 @@ I'm a 3rd year Computer Science student at Wilfrid Laurier University
 - 💻 Currently working on web scraping and AI applications
 - 👨‍💻 I am an aspiring developer
 
-## Contact Me
+## Let's Connect!
 jonaheagleson@gmail.com
-
-## Check out my LinkedIn
 www.linkedin.com/in/jonah-eagleson
+
+## Check out my website
+https://jonah-eagleson-portfolio.vercel.app/
